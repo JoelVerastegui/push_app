@@ -10,7 +10,7 @@ plugins {
 
 android {
     namespace = "com.joelverastegui.pushApp"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk = 34 // flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
